@@ -229,8 +229,7 @@ def x():
 		print('[\033[1;32m✓]      The FIRE Is Back')
 		print('[\033[1;32m✓] Successfully Update Done 3:2.1')
 		print(50*'_')
-		print(' \033[97;1m[✓] Total ids:\033[1;92m 
-		print('SPEED BOOST (ON/OF) AIRPLANE MODE')
+		
 		for guru in user:
 			uid = kode+guru
 			ps1 = uid[6:]
@@ -264,8 +263,7 @@ def virus():
 		print('[\033[1;32m✓]      The FIRE Is Back')
 		print('[\033[1;32m✓] Successfully Update Done 3:2.1')
 		print(50*'_')
-		print(' \033[97;1m[✓] Total ids:\033[1;92m 
-		print('SPEED BOOST (ON/OF) AIRPLANE MODE')
+		
 		for guru in user:
 			uid = kode+koda+kodb+guru
 			pwx = [koda+kodb+guru,kodb+guru,kode+koda+kodb,kode+kode,kode+'123',kode+'1234','bangladesh','i love you','sexlover','112233']
@@ -296,8 +294,7 @@ def virus2():
 		print('[\033[1;32m✓]      The FIRE Is Back')
 		print('[\033[1;32m✓] Successfully Update Done 3:2.1')
 		print(50*'_')
-		print(' \033[97;1m[✓] Total ids:\033[1;92m 
-		print('SPEED BOOST (ON/OF) AIRPLANE MODE')
+		
 		for guru in user:
 			uid = kode+koda+kodb+guru
 			pwx = [koda+kodb+guru,kodb+guru,kode+koda+kodb,kode+kode,kode+'123',kode+'1234','bangladesh','i love you','sexlover']
@@ -328,8 +325,7 @@ def virus3():
 		print('[\033[1;32m✓]      The FIRE Is Back')
 		print('[\033[1;32m✓] Successfully Update Done 3:2.1')
 		print(50*'_')
-		print(' \033[97;1m[✓] Total ids:\033[1;92m 
-		print('SPEED BOOST (ON/OF) AIRPLANE MODE')
+		
 		for guru in user:
 			uid = kode+koda+kodb+guru
 			pwx = [koda+kodb+guru,kodb+guru,kode+koda+kodb,kode+kode,kode+'123',kode+'1234','bangladesh','i love you','sexlover']
