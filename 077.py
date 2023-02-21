@@ -177,10 +177,10 @@ def cek_apk(session,coki):
 def Main():
 	os.system('clear')
 	print(logo)
-	print('\033[97;1m  [1] ‣  𝐁𝐃 𝐍𝐮𝐦𝐛𝐞𝐫 𝐂𝐥𝐨𝐧𝐞𝐫 \033[1;32m𝐌𝐈𝐗 ')
-	print("\033[97;1m  [2] ‣  𝐁𝐃 𝐍𝐮𝐦𝐛𝐞𝐫 𝐂𝐥𝐨𝐧𝐞𝐫 \033[1;32m𝐎𝐧𝐥𝐲 𝐎𝐤 ")
-	print("\033[97;1m  [4] ‣  𝐂𝐨𝐧𝐭𝐫𝐚𝐜𝐭 𝐀𝐝𝐦𝐢𝐧 ")
-	print('\033[97;1m  [5] ‣  𝐁𝐚𝐜𝐤')
+	print('\033[97;1m  [1] ‣  BD NUMBERCLONER \033[1;32mMIX ')
+	print("\033[97;1m  [2] ‣  BD NUMBERCLONER \033[1;32mONLY-OK ")
+	print("\033[97;1m  [3] ‣  CONTRACT ")
+	print('\033[97;1m  [4] ‣  BACK')
 	print(51*'\033[92;1m▬')
 	
 	opt = input('𝐂𝐡𝐨𝐨𝐬𝐞 𝐨𝐩𝐭𝐢𝐨𝐧 \033[97;1m➠ ')
